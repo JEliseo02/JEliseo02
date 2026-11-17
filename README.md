@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Jack 👋
 
-<!--
-**JEliseo02/JEliseo02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity-focused IT professional in the Charlotte, NC area.
+B.S. in Computer Science (Cyber Security concentration), UNC Charlotte.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Writing up TryHackMe labs: web exploitation, enumeration, and privilege escalation
+- Building toward a SOC / security analyst role
+- Next up: the SOC Level 1 path to add blue-team skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Credentials
+CompTIA Security+ · Google Cybersecurity Certificate · Microsoft AZ-900
+
+## Background
+Enterprise IT operations: hardware repair, OS imaging, SLA-driven support, and vendor coordination.
