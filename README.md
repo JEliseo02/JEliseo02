@@ -9,7 +9,7 @@ B.S. in Computer Science (Cyber Security concentration), UNC Charlotte.
 - Next up: the SOC Level 1 path to add blue-team skills
 
 ## Credentials
-CompTIA Security+ · Google Cybersecurity Certificate · Microsoft AZ-900
+CompTIA Security+ · Google Cybersecurity Certificate · Microsoft AZ-900 · GRC Fundamentals · Dell Support Certification
 
 ## Background
 Enterprise IT operations: hardware repair, OS imaging, SLA-driven support, and vendor coordination.
